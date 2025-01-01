@@ -53,16 +53,6 @@ Simba Chatbot/
 
 ---
 
-## Screenshots
-
-### **Webpage Interface:**
-_Include screenshots of the HTML/CSS webpage showing the chatbot interaction._
-
-### **Chatbot in Action:**
-_Include screenshots of Dialogflow responses demonstrating the chatbot capabilities._
-
----
-
 ## Future Enhancements
 
 1. Add payment gateway integration for online payments.
